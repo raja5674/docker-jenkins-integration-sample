@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="182b9b4f-64d8-4940-9981-ae3cc2791134" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../dockerjenkinsintegrationsample/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dockerjenkinsintegrationsample/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dockerjenkinsintegrationsample/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dockerjenkinsintegrationsample/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dockerjenkinsintegrationsample/dockerjenkinsintegrationsample.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dockerjenkinsintegrationsample/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="182b9b4f-64d8-4940-9981-ae3cc2791134" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../dockerjenkinsintegrationsample/out/" />
     <ignored path="$PROJECT_DIR$/../dockerjenkinsintegrationsample/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
